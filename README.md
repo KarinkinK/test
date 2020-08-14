@@ -1,4 +1,3 @@
-# test
 
 test task for position ML Engineer in AV soft company
 
